@@ -1,3 +1,9 @@
+# Deployed on Firebase
+
+[Tinder-Clone](https://tinder-clone-6dead.web.app/)
+
+Backend server is deployed on Heroku
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
